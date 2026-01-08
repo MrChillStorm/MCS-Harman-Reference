@@ -156,7 +156,7 @@ The included plot shows all three curves for direct comparison:
 - **MCS-Harman-Flat**: Energy-balanced flat reference (analytical use)
 - **MCS-Harman-Reference**: Perceptually neutral target (recommended)
 
-
+![Curve Comparison](comparison_plot.png)
 
 ---
 
