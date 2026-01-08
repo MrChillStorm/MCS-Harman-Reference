@@ -153,8 +153,8 @@ This suggests MCS-Harman-Reference captures perceptually neutral sound reproduct
 
 The included plot shows all three curves for direct comparison:
 - **Harman over-ear 2018**: Original consumer preference target
-- **MCS-Harman-Flat**: Energy-balanced flat reference (analytical use)
 - **MCS-Harman-Reference**: Perceptually neutral target (recommended)
+- **MCS-Harman-Flat**: Energy-balanced flat reference (analytical use)
 
 ![Curve Comparison](comparison_plot.png)
 
