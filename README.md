@@ -73,11 +73,13 @@ MCS-Harman-Reference was evaluated against a database of premium headphone measu
 
 ### Notable Result
 
-**Sennheiser HE 1 (Orpheus 2)** achieves a **perfect normalized score (1.000)** against MCS-Harman-Reference across all acoustic metrics.
+When evaluated against MCS-Harman-Reference using a corrected, energy-domain methodology, the **Sennheiser HE 1 (Orpheus 2)** ranks within the top tier of measured headphones rather than achieving a perfect score.
 
-This suggests that the energy-balanced approach converges with what reference-class headphone designers achieve through years of iterative tuning and extensive listening tests. In essence, MCS-Harman-Reference mathematically formalizes what elite headphone designs discover empirically.
+This outcome is significant. Despite no special treatment, tuning assumptions, or model-specific optimization, a reference-class headphone developed through extensive R&D and critical listening converges closely with an energy-balanced target derived purely from signal-level principles.
 
-The HE 1 Orpheus 2, widely regarded as one of the most meticulously tuned headphones ever made, represents millions of dollars in R&D and countless hours of critical listening by world-class acoustic engineers. The fact that it matches MCS-Harman-Reference validates this approach as more than preference; it appears to capture fundamental principles of perceptually neutral sound reproduction.
+The HE 1, often cited as one of the most carefully tuned headphones ever produced, represents years of iterative refinement by experienced acoustic engineers. Its strong, though not perfect, alignment with MCS-Harman-Reference suggests that energy-balanced targets capture a substantial portion of the perceptual structure that elite designs arrive at empirically, without encoding product-specific coloration or preference bias.
+
+Rather than matching a single flagship, MCS-Harman-Reference appears to describe a neutral acoustic baseline that multiple high-quality designs naturally approach, reinforcing its role as a reference rather than a preference-optimized target.
 
 ![HE 1 vs MCS-Harman-Reference](HE_1_vs_MCS-Harman-Reference.png)
 
